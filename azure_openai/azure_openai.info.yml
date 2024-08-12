@@ -1,0 +1,5 @@
+name: 'Azure OpenAI'
+type: module
+description: 'A module to integrate the Microsoft Azure OpenAI service with Drupal 10'
+core_version_requirement: ^10
+package: Custom

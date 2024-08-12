@@ -1,0 +1,11 @@
+openai_summary_helper:
+  css:
+    theme:
+      css/openai-summary.css: {}
+  js:
+    js/openai-summary-helper.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/once
+

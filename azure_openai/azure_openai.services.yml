@@ -1,0 +1,5 @@
+services:
+  azure_openai.service:
+    class: 'Drupal\azure_openai\Service\AzureOpenAIService'
+    arguments: []
+
